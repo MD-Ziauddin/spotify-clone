@@ -1,10 +1,11 @@
 export const initialState = {
   user: null,
   playlists: [],
+  spotify: null,
+  discover_weekly: null,
+  top_artists: null,
   playing: false,
   item: null,
-  // token:
-  //   'BQDdov4aNNlmmc1Ubb_ej8QErbZkKIVlClmwJc_6k7ovlO1aKgRUbzMnuv73htcozmPb1pOvQuRXD-EQ0xNU9nSzvWZgSrMm_ZLsvRiQWNEDBbJtmpB36lK5mgpQ0wx8PDkoxzrEySwgfDQxmVx-HLjT4-CtaV80fOIYVqQZi5g5mZW2BVCc',
 };
 
 const reducer = (state, action) => {
