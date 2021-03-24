@@ -1,5 +1,7 @@
 # React Spotify 😎🎸
 
+## Note : This API work with Spotify Premium.
+
 This is a React-Spotify which Spotify API .
 
 If you wish to run the code locally.
